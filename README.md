@@ -1,1 +1,23 @@
-hello I'm Shoxjaxon
+<div class="Box-sc-g0xbh4-0 js-snippet-clipboard-copy-unpositioned DirectoryRichtextContent-module__SharedMarkdownContent--YORdJ" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><div class="markdown-heading" dir="auto"><h1 align="center" tabindex="-1" class="heading-element" dir="auto">Backend Developer | PHP &amp; Laravel Specialist</h1><a id="user-content-backend-developer--php--laravel-specialist" class="anchor" aria-label="Permalink: Backend Developer | PHP &amp; Laravel Specialist" href="#backend-developer--php--laravel-specialist"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p align="center" dir="auto">
+  <strong>Building Scalable, High-Performance, and Secure Backend Systems</strong><br>
+  Specializing in API Development, Database Optimization, and Backend Architecture
+</p>
+<hr>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto">👨‍💻 About Me</h2><a id="user-content--about-me" class="anchor" aria-label="Permalink: 👨‍💻 About Me" href="#-about-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto">👋 Hi, I'm <strong>Sukhrob</strong>, a <strong>Backend Developer</strong> with <strong>5+ years of experience</strong> in designing, building, and optimizing backend systems using <strong>PHP, Laravel, and modern architectures</strong>.</p>
+<p dir="auto">I specialize in:<br>
+✔️ <strong>Building and scaling backend applications</strong> for high-performance and reliability.<br>
+✔️ <strong>Designing robust APIs</strong> that power modern web and mobile applications.<br>
+✔️ <strong>Optimizing databases and queries</strong> to ensure efficiency and scalability.<br>
+✔️ <strong>Implementing security best practices</strong> to safeguard applications.</p>
+<p dir="auto">Throughout my career, I’ve worked on <strong>SaaS products, large-scale applications, and startup projects</strong>, handling <strong>end-to-end backend development, deployment, and optimization</strong>.</p>
+<blockquote>
+<p dir="auto"><strong>My goal is to build efficient, maintainable, and scalable backend systems that power great products.</strong></p>
+</blockquote>
+<hr>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto">📬 Contact &amp; Connect</h2><a id="user-content--contact--connect" class="anchor" aria-label="Permalink: 📬 Contact &amp; Connect" href="#-contact--connect"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto">🔗 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/sukhrob-nurali/" rel="nofollow">Sukhrob Nurali</a><br>
+📢 <strong>YouTube:</strong> <a href="https://www.youtube.com/@SuxrobNurali" rel="nofollow">@SuxrobNurali</a><br>
+💬 <strong>Telegram:</strong> <a href="https://t.me/suxrobnurali" rel="nofollow">@suxrobnurali</a></p>
+</article></div>
