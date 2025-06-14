@@ -1,23 +1,120 @@
-<div class="Box-sc-g0xbh4-0 js-snippet-clipboard-copy-unpositioned DirectoryRichtextContent-module__SharedMarkdownContent--YORdJ" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><div class="markdown-heading" dir="auto"><h1 align="center" tabindex="-1" class="heading-element" dir="auto">Backend Developer | PHP &amp; Laravel Specialist</h1><a id="user-content-backend-developer--php--laravel-specialist" class="anchor" aria-label="Permalink: Backend Developer | PHP &amp; Laravel Specialist" href="#backend-developer--php--laravel-specialist"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
-<p align="center" dir="auto">
-  <strong>Building Scalable, High-Performance, and Secure Backend Systems</strong><br>
-  Specializing in API Development, Database Optimization, and Backend Architecture
-</p>
-<hr>
-<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto">👨‍💻 About Me</h2><a id="user-content--about-me" class="anchor" aria-label="Permalink: 👨‍💻 About Me" href="#-about-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
-<p dir="auto">👋 Hi, I'm <strong>Sukhrob</strong>, a <strong>Backend Developer</strong> with <strong>5+ years of experience</strong> in designing, building, and optimizing backend systems using <strong>PHP, Laravel, and modern architectures</strong>.</p>
-<p dir="auto">I specialize in:<br>
-✔️ <strong>Building and scaling backend applications</strong> for high-performance and reliability.<br>
-✔️ <strong>Designing robust APIs</strong> that power modern web and mobile applications.<br>
-✔️ <strong>Optimizing databases and queries</strong> to ensure efficiency and scalability.<br>
-✔️ <strong>Implementing security best practices</strong> to safeguard applications.</p>
-<p dir="auto">Throughout my career, I’ve worked on <strong>SaaS products, large-scale applications, and startup projects</strong>, handling <strong>end-to-end backend development, deployment, and optimization</strong>.</p>
-<blockquote>
-<p dir="auto"><strong>My goal is to build efficient, maintainable, and scalable backend systems that power great products.</strong></p>
-</blockquote>
-<hr>
-<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto">📬 Contact &amp; Connect</h2><a id="user-content--contact--connect" class="anchor" aria-label="Permalink: 📬 Contact &amp; Connect" href="#-contact--connect"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
-<p dir="auto">🔗 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/sukhrob-nurali/" rel="nofollow">Sukhrob Nurali</a><br>
-📢 <strong>YouTube:</strong> <a href="https://www.youtube.com/@SuxrobNurali" rel="nofollow">@SuxrobNurali</a><br>
-💬 <strong>Telegram:</strong> <a href="https://t.me/suxrobnurali" rel="nofollow">@suxrobnurali</a></p>
-</article></div>
+<!DOCTYPE html>
+<html lang="uz">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Sobirjonov Shoxjaxon | Full Stack Developer</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <style>
+    body {
+      font-family: "Segoe UI", sans-serif;
+      background: #f9f9f9;
+      color: #333;
+      margin: 0;
+      padding: 0;
+    }
+
+    .container {
+      max-width: 960px;
+      margin: auto;
+      padding: 40px 20px;
+      background: white;
+      box-shadow: 0 0 10px rgba(0,0,0,0.05);
+      border-radius: 12px;
+      margin-top: 40px;
+    }
+
+    h1, h2 {
+      text-align: center;
+      color: #222;
+    }
+
+    p {
+      text-align: center;
+      font-size: 18px;
+      line-height: 1.5;
+    }
+
+    .contact-icons, .tech-icons {
+      display: flex;
+      justify-content: center;
+      flex-wrap: wrap;
+      gap: 20px;
+      margin-top: 20px;
+    }
+
+    .icon {
+      font-size: 28px;
+      color: #444;
+      transition: transform 0.2s, color 0.3s;
+    }
+
+    .icon:hover {
+      color: #007bff;
+      transform: scale(1.2);
+    }
+
+    .tech {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 16px;
+      margin-top: 30px;
+    }
+
+    .tech span {
+      background: #f1f1f1;
+      padding: 10px 14px;
+      border-radius: 8px;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      font-size: 16px;
+    }
+
+    .note {
+      margin-top: 40px;
+      text-align: center;
+      font-size: 18px;
+      font-style: italic;
+      color: #555;
+    }
+
+    a {
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>👨‍💻 Sobirjonov Shoxjaxon</h1>
+    <p>Men <strong>Full Stack dasturchiman</strong>. Professional ravishda web ilovalarni yaratish va ular ustida ishlashni yaxshi ko‘raman.</p>
+
+    <h2>📬 Men bilan bog‘lanish</h2>
+    <div class="contact-icons">
+      <a href="https://t.me/sizning_username" target="_blank" class="icon"><i class="fab fa-telegram"></i></a>
+      <a href="https://www.linkedin.com/in/sizning_linkedin" target="_blank" class="icon"><i class="fab fa-linkedin"></i></a>
+      <a href="mailto:sizning_email@example.com" class="icon"><i class="fas fa-envelope"></i></a>
+    </div>
+
+    <h2>🛠 Texnologiyalar</h2>
+    <div class="tech">
+      <span><i class="fab fa-html5" style="color:#e34c26;"></i> HTML</span>
+      <span><i class="fab fa-css3-alt" style="color:#264de4;"></i> CSS</span>
+      <span><i class="fab fa-sass" style="color:#cd6799;"></i> Sass</span>
+      <span><i class="fab fa-bootstrap" style="color:#7952b3;"></i> Bootstrap</span>
+      <span><i class="fab fa-js" style="color:#f7df1e;"></i> JavaScript</span>
+      <span><i class="fab fa-js" style="color:#0769ad;"></i> jQuery</span>
+      <span><i class="fab fa-vuejs" style="color:#42b883;"></i> Vue.js</span>
+      <span><i class="fab fa-php" style="color:#8993be;"></i> PHP</span>
+      <span><i class="fab fa-laravel" style="color:#f55247;"></i> Laravel</span>
+      <span><i class="fas fa-database" style="color:#00758f;"></i> MySQL</span>
+      <span><i class="fas fa-database" style="color:#336791;"></i> PostgreSQL</span>
+      <span><i class="fab fa-git-alt" style="color:#f1502f;"></i> Git</span>
+      <span><i class="fab fa-figma" style="color:#f24e1e;"></i> Figma</span>
+    </div>
+
+    <p class="note">📘 Hozirda men <strong>Laravel</strong> frameworkini chuqurroq o‘rganmoqdaman.</p>
+  </div>
+</body>
+</html>
