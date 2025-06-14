@@ -1,1 +1,1 @@
-Hi I'm Shoxjaxon Sobirjonov <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeno0dnZhdzI5bWI0M2xjcDh4a3ZseTlncXlzdXFnOTM0eHVibDMzeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gM5qFksULw54NMWyry/giphy.gif" width="50px">
+Hi I'm Shoxjaxon Sobirjonov <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px">
